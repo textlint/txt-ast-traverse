@@ -1,5 +1,7 @@
 # txt-ast-traverse [![Build Status](https://travis-ci.org/textlint/txt-ast-traverse.svg)](https://travis-ci.org/textlint/txt-ast-traverse)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/textlint/txt-ast-traverse.svg)](https://greenkeeper.io/)
+
 txt-ast-traverse provide traversal functions for [Markdown AST](https://github.com/textlint/markdown-to-ast/ "textlint/markdown-to-ast").
 
 This traverse function is a fork of [estraverse](https://github.com/estools/estraverse "Estraverse") for [textlint/markdown-to-ast](https://github.com/textlint/markdown-to-ast/ "textlint/markdown-to-ast").
